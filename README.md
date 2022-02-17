@@ -34,5 +34,5 @@ The data has been split into two groups:
 | embarked | Port of Embarkation | C = Cherbourg, Q = Queenstown, S = Southampton |
 
 #### Results:
-#### Accuracy Scored: 0.95
+#### Accuracy Scored: 0.76
 Solution is included in the [notebook.ipynb](notebook.ipynb) file.
